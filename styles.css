@@ -321,10 +321,22 @@ header {
     min-height: 225px;
 }
 .extension__p {
-    font-size: 50px;
+    font-size: 70px;
+    font-weight: 200;
+    background: linear-gradient(to right, #605DBA, #3F78E0);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-stretch: condensed;
+    /*border: 1px solid red;*/
+    margin: -20px;
 }
-.extension__card p {
-    margin: 15px 0 0 0;
+.extension__card-p {
+    margin-top: 35px;
+    /*border: 2px solid lime;*/
+}
+.extension__card-p-long {
+    /*border: 2px solid aqua;*/
 }
 @media (max-width: 1024px) {
     .extension__title {
