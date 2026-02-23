@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Segoe UI";
+    font-style: normal;
+    font-weight: normal;
+    src: local('Segoe UI'), url(../fonts/segoeui.woff2) format("woff2");
+}
+
+/*@font-face {*/
+/*    font-family: "Segoe UI Semibold";*/
+/*    font-style: normal;*/
+/*    font-weight: normal;*/
+/*    src: local('Segoe UI Semibold'), url(fonts/segoeuisemibold.woff2) format("woff2"), url(fonts/segoeuisemibold.woff) format("woff"), url(fonts/segoeuisemibold.ttf) format("truetype");*/
+/*}*/

@@ -1,0 +1,30 @@
+.btn {
+    border: none;
+}
+
+.btn-blue {
+    border: 1px solid blue;
+    background: blue;
+}
+
+.btn-red {
+    border: 1px solid red;
+    background: red;
+}
+
+.btn-lg {
+    padding: 20px;
+    font-size: 20px;
+}
+
+.btn-md {
+    padding: 10px;
+    font-size: 16px;
+}
+
+.btn-primary{
+    border: 1px solid blue;
+    background: blue;
+    padding: 20px;
+    font-size: 20px;
+}
